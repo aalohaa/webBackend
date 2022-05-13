@@ -1,0 +1,118 @@
+body{
+  font-family: Dongle;
+}
+
+#title{
+  background-color: #F9F3DF;
+  color:#FF865E;
+}
+h1{
+  font-family: Dongle;
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 1.5;
+  color:#FF865E;
+  margin-left: 250px;
+  margin-top: 70px;
+}
+.text{
+  position:relative;
+  top:20px;
+  left:350px;
+  font-size: 1.3rem;
+}
+#contacts{
+  margin-left: 30px;
+  margin-top: 80px;
+  font-size: 2rem;
+}
+.h32:hover{
+  color:#FEE440;
+}
+.anim{
+  font-size: 1.3rem;
+}
+.colorlibcopy-agile{
+  font-size: 1.3rem;
+}
+
+input {
+  width: 50%;
+  padding: 1px;
+  border: 2px solid white;
+  border-radius: 2px;
+  box-sizing: border-box;
+  margin-top: 3px;
+  margin-bottom: 5px;
+  position: relative;
+  top:100px;
+  left:250px;
+  font-family: 'Dongle';
+  font-size: 20px;
+}
+
+/* Style the submit button */
+input[type=submit] {
+  background-color: #FF865E;
+  color: white;
+  font-family: 'Dongle';
+  font-size: 20px;
+}
+
+/* The message box is shown when the user clicks on the password field */
+#message {
+  display:none;
+  background:  rgb(229 182 97 / 75%);
+  color: white;
+  font-family: 'Dongle';
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#message p {
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 2px;
+  font-size: 20px;
+  font-family: 'Dongle';
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -10px;
+  content: "✔";
+}
+
+/* Add a red text color and an "x" when the requirements are wrong */
+.invalid {
+  color: red;
+}
+
+.invalid:before {
+  position: relative;
+  left: -10px;
+  content: "✖";
+}
+.psw_111{
+  font-size: 25px;
+  font-family: 'Dongle';
+  color: white;
+}
+.show{
+  position: relative;
+  top:90px;
+  left:-10px;
+}
+.show1{
+  position: relative;
+  top:65px;
+  left:270px;
+
+}

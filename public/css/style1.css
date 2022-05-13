@@ -1,0 +1,44 @@
+.container {
+    border-radius: 5px;
+    background-color: #F9F3DF;
+    padding: 10px;
+}
+
+input[type=submit] {
+    background-color: #000;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 15px; 
+    box-sizing: border-box; 
+    margin-top: 20px; 
+    margin-bottom: 15px; 
+}
+
+.text {
+    color:#FF865E;
+    background-color: #F9F3DF;
+    font-size: 20px;
+}
+.fname{
+    color: #FF865E;
+    font-size: 25px
+}
+.lname{
+     color: #FF865E;
+    font-size: 25px
+}
+.email{
+     color: #FF865E;
+    font-size: 25px
+}
+.subject{
+     color: #FF865E;
+    font-size: 25px
+}

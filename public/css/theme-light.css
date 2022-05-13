@@ -1,0 +1,110 @@
+#title{
+  background-color: #F9F3DF;
+  color:#FF865E;
+}
+
+h1{
+  color:#FF865E;
+}
+h3{
+  color:#F9F3DF;
+}
+.h33{
+  color:#FF865E;
+}
+h4{
+  color:#FF865E;
+}
+h5{
+  color:#FF865E;
+}
+
+.h22{
+  color:#FF865E;
+}
+.p{
+  color: #876445;
+}
+.h33:hover{
+  color:#F9F3DF;
+}
+#test{
+  background-color: #FF865E;
+  color:#fff;
+}
+footer {
+    background-color: #F9F3DF;
+    color: #000;
+}
+.footer-left a{
+    color: #000;
+}
+.footer-right a{
+    color: #000;
+}
+.footer-right span{
+    color: #000;
+}
+.grid-posts .card-body{
+    background-color: #F9F3DF;
+}
+#panel, #flip {
+  background-color: #FF865E;
+  border: solid 1px #FF865E;
+}
+.drum {
+  border: 4px solid #FF865E;
+  color:  #F9F3DF;
+  background-color:#FF865E;
+}
+
+.dropbtn {
+  background-color: #3498DB;
+  color: white;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #f9f3df;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  background-color: #ff865e;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #f9f3df;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #eae3ca91}
+
+#overlay {
+  background-color: rgba(0,0,0,0.5);
+}
+
+#text{
+  color: white;
+}
+
+.action-btn {
+  background-color: #f9f3df;
+  color: #dfdbdf;
+}
+
+.action-btn.action-btn-big {
+  color: #cdc2d0;
+}
+.theme{
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.change-theme[data-theme="dark"] {
+    display: block;
+}
+.change-theme[data-theme="light"] {
+    display: none;
+}
